@@ -13,7 +13,7 @@ A continuación se presenta la consolidación de los casos de prueba ejecutados 
 
 | ID | Funcionalidad | Nombre del Caso | Técnica | Prioridad | Resultado Esperado (Resumen) | Estado | Enlace Documento Detallado |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **TC-001** | Login | Login exitoso | PE-Válida | Alta | Popup bienvenida + redirige a home | PASS | [Ver en Google Docs](LINK_AQUÍ) |
+| **TC-001** | Login | Login exitoso | PE-Válida | Alta | Popup bienvenida + redirige a home | PASS | [Ver en Google Docs](LINK_AQ  UÍ) |
 | **TC-002** | Login | Contraseña incorrecta | PE-Invalida | Alta | Error rojo, no accede | PASS | [Ver en Google Docs](LINK_AQUÍ) |
 | **TC-003** | Login | Usuario no registrado | PE-Invalida | Alta | Mensaje 'usuario no encontrado' | PASS | [Ver en Google Docs](LINK_AQUÍ) |
 | **TC-004** | Login | Campos vacíos | Edge Case | Media | Mensaje 'completa todos los campos' | PASS | [Ver en Google Docs](LINK_AQUÍ) |
